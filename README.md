@@ -3,8 +3,8 @@
 This repository tracks my progress in learning Data Structures and Algorithms.
 
 I'm using a mix of:
-- Udemy DSA course
-- roadmap.sh
+- Udemy DSA course: [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) by Andrei Neagoie
+- roadmap.sh: [Data Structure and Algorithm](https://roadmap.sh/datastructures-and-algorithms)
 - LeetCode problems
 - NeetCode roadmap
 
